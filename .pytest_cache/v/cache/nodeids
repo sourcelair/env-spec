@@ -1,0 +1,6 @@
+[
+  "env_spec_test.py::test_invalid_input_non_latin",
+  "env_spec_test.py::test_invalid_input_start_with_digit",
+  "env_spec_test.py::test_non_existed_type",
+  "env_spec_test.py::test_valid_input"
+]
